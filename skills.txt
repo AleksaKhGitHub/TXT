@@ -1,0 +1,2 @@
+Тест документация, баг репорты, SDLC, тест кейсы, клент сервер, js, postman Android studio, Charles, dev tools, xcode, GitHub, Linux, bash, SQL, jmeter, scrum, kanban, python
+
